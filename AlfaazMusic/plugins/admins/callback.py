@@ -7,7 +7,7 @@ from config import (AUTO_DOWNLOADS_CLEAR, BANNED_USERS,
                     SOUNCLOUD_IMG_URL, STREAM_IMG_URL,
                     TELEGRAM_AUDIO_URL, TELEGRAM_VIDEO_URL, adminlist)
 from AlfaazMusic import YouTube, app
-from AlfaazMusic.core.call import Yukki
+from AlfaazMusic.core.call import Alfaaz
 from AlfaazMusic.misc import SUDOERS, db
 from AlfaazMusic.utils.database import (is_active_chat,
                                        is_music_playing, is_muted,
